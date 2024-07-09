@@ -1,0 +1,18 @@
+span{
+    text-decoration: underline;
+}
+h2.pb-2.border-bottom{
+    display: flex;
+    justify-content: center;
+}
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+a.btn{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
